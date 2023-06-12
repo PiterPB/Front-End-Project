@@ -17,6 +17,8 @@ a {
     color: red;
 }
 
+/*--------Navbar--------*/
+
 .navbar {
     background-color: rgb(10, 10, 10);
     border: red 1px solid;
@@ -39,4 +41,25 @@ a {
 
 .nav-link {
     color: aliceblue;
+}
+
+
+/*--------Artigos--------*/
+
+header {
+    display: flex;
+    border: yellow 1px solid;
+}
+
+article {
+    border: paleturquoise 1px solid;
+    display: flex;
+}
+
+.img1 {
+    border: blue 1px solid;
+}
+
+.t1 {
+    border: red 1px solid;
 }
